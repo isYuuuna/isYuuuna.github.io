@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: home
+nav_enabled: true
 ---
 Hello!
 
