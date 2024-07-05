@@ -1,5 +1,5 @@
 ---
-title: About
+title: Research
 layout: home
 ---
 Hello!
