@@ -4,9 +4,6 @@ theme: just-the-docs
 
 url: https://isyuuuna.github.io/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
