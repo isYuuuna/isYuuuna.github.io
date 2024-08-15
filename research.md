@@ -16,4 +16,6 @@ Cell division is one of the most important processes within any living organism.
 2. Edward J Banigan, Kevin K Chiou, Edward R Ballister, Alyssa M Mayo, Michael A Lampson, and Andrea J Liu (2015) [Minimal model for collective kinetochore–microtubule dynamics](https://www.pnas.org/doi/full/10.1073/pnas.1513512112#) *PNAS* 112 (41) 12699-12704
 
 #### Some more cool microtubule stuff!
-    
+1. [Seattle Mitosis Club](https://research.fredhutch.org/biggins/en/resources.html) and [Asbury Lab](https://faculty.washington.edu/casbury/index.html)
+2. A Movie (moive 1 from Cimini et al. 2004) showing how microtubulues (labeled red) move. Watch how microtubules move collectively as a bundle while each individual grows and shortens stochastically. ![mmc2](https://github.com/user-attachments/assets/cda0d30d-6304-413b-9340-1bb945378704)
+
