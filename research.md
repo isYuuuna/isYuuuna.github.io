@@ -7,7 +7,7 @@ nav_order: 2
 ## Pre-grad School 
 ### Microtubules and Cell Division 
 
-I was a research assistant at [Asbury Lab](https://faculty.washington.edu/casbury/index.html) at the University of Washington. I collaborated with Bonnibelle Leeds and Prof. Asbury to study the mechanism behind cell division.
+I was a research assistant at [Asbury Lab](https://faculty.washington.edu/casbury/index.html) at the University of Washington. I worked with Bonnibelle Leeds and Prof. Asbury to study the mechanism behind cell division.
 
 Cell division is one of the most important processes within any living organism. However, it is not clear how genetic materials are partitioned equally during mitosis. It has been observed that chromosomes oscillate during metaphase. Chromosome oscillation promotes the alignment and separation of chromosomes along the spindle equator. This movement is driven by microtubules attached to the chromosomes via kinetochores. Microtubule tips stochastically switch between assembly and disassembly states, pulling and pushing chromosomes in a process known as dynamic instability. The switching between these states is triggered by changes in force. We propose a mechanical model that captures the microtubule-chromosome dynamics.
 
